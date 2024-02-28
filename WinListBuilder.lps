@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units Count="5">
+      <Unit0>
+        <Filename Value="WinListBuilder.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="20"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="umain.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmMain"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="uMain"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos X="50" Y="29"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="uhelp.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmHelp"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="uHelp"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="6"/>
+        <CursorPos X="9" Y="36"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="C:\lazarus\lcl\stdctrls.pp"/>
+        <UnitName Value="StdCtrls"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="593"/>
+        <CursorPos X="14" Y="610"/>
+        <UsageCount Value="10"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="C:\lazarus\fpc\3.0.4\source\rtl\objpas\classes\classesh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="635"/>
+        <CursorPos X="25" Y="666"/>
+        <UsageCount Value="10"/>
+      </Unit4>
+    </Units>
+    <JumpHistory Count="17" HistoryIndex="16">
+      <Position1>
+        <Filename Value="umain.pas"/>
+      </Position1>
+      <Position2>
+        <Filename Value="umain.pas"/>
+        <Caret Line="35" Column="27"/>
+      </Position2>
+      <Position3>
+        <Filename Value="umain.pas"/>
+        <Caret Line="49" Column="35" TopLine="15"/>
+      </Position3>
+      <Position4>
+        <Filename Value="umain.pas"/>
+        <Caret Line="60" Column="41" TopLine="26"/>
+      </Position4>
+      <Position5>
+        <Filename Value="umain.pas"/>
+        <Caret Line="78" Column="41" TopLine="44"/>
+      </Position5>
+      <Position6>
+        <Filename Value="umain.pas"/>
+        <Caret Line="89" Column="20" TopLine="56"/>
+      </Position6>
+      <Position7>
+        <Filename Value="umain.pas"/>
+        <Caret Line="111" Column="34" TopLine="78"/>
+      </Position7>
+      <Position8>
+        <Filename Value="umain.pas"/>
+        <Caret Line="118" Column="19" TopLine="91"/>
+      </Position8>
+      <Position9>
+        <Filename Value="umain.pas"/>
+        <Caret Line="158" Column="47" TopLine="131"/>
+      </Position9>
+      <Position10>
+        <Filename Value="uhelp.pas"/>
+      </Position10>
+      <Position11>
+        <Filename Value="uhelp.pas"/>
+        <Caret Line="30" Column="34"/>
+      </Position11>
+      <Position12>
+        <Filename Value="uhelp.pas"/>
+        <Caret Line="31" Column="34"/>
+      </Position12>
+      <Position13>
+        <Filename Value="uhelp.pas"/>
+        <Caret Line="40" Column="34" TopLine="6"/>
+      </Position13>
+      <Position14>
+        <Filename Value="umain.pas"/>
+        <Caret Line="173" Column="21" TopLine="143"/>
+      </Position14>
+      <Position15>
+        <Filename Value="umain.pas"/>
+        <Caret Line="98" Column="16" TopLine="78"/>
+      </Position15>
+      <Position16>
+        <Filename Value="umain.pas"/>
+        <Caret Line="81" Column="46" TopLine="64"/>
+      </Position16>
+      <Position17>
+        <Filename Value="umain.pas"/>
+        <Caret Line="68" Column="3" TopLine="56"/>
+      </Position17>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
